@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/vidhihooda008/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0136-single-number](https://github.com/vidhihooda008/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/vidhihooda008/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/vidhihooda008/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vidhihooda008/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vidhihooda008/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/vidhihooda008/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
