@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vidhihooda008/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/vidhihooda008/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/vidhihooda008/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/vidhihooda008/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/vidhihooda008/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/vidhihooda008/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/vidhihooda008/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vidhihooda008/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/vidhihooda008/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/vidhihooda008/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhihooda008/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vidhihooda008/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vidhihooda008/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vidhihooda008/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
