@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/vidhihooda008/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhihooda008/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vidhihooda008/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/vidhihooda008/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/vidhihooda008/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/vidhihooda008/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vidhihooda008/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vidhihooda008/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0242-valid-anagram](https://github.com/vidhihooda008/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vidhihooda008/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/vidhihooda008/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/vidhihooda008/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/vidhihooda008/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/vidhihooda008/LeetCode/tree/main/0078-subsets/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/vidhihooda008/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/vidhihooda008/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
