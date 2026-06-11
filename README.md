@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/vidhihooda008/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/vidhihooda008/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhihooda008/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/vidhihooda008/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/vidhihooda008/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vidhihooda008/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vidhihooda008/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/vidhihooda008/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/vidhihooda008/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/vidhihooda008/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/vidhihooda008/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vidhihooda008/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Matrix
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/vidhihooda008/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0912-sort-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Monotonic Queue
@@ -162,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
