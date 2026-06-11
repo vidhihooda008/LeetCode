@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/vidhihooda008/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vidhihooda008/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/vidhihooda008/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/vidhihooda008/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vidhihooda008/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vidhihooda008/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vidhihooda008/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -97,8 +98,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vidhihooda008/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/vidhihooda008/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vidhihooda008/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/vidhihooda008/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
