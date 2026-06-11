@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/vidhihooda008/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/vidhihooda008/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vidhihooda008/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vidhihooda008/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/vidhihooda008/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/vidhihooda008/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vidhihooda008/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vidhihooda008/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vidhihooda008/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/vidhihooda008/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
