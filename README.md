@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/vidhihooda008/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/vidhihooda008/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/vidhihooda008/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/vidhihooda008/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/vidhihooda008/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/vidhihooda008/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhihooda008/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vidhihooda008/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/vidhihooda008/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vidhihooda008/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/vidhihooda008/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/vidhihooda008/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vidhihooda008/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vidhihooda008/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vidhihooda008/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/vidhihooda008/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vidhihooda008/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/vidhihooda008/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/vidhihooda008/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/vidhihooda008/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/vidhihooda008/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vidhihooda008/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/vidhihooda008/LeetCode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
