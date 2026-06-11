@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vidhihooda008/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/vidhihooda008/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/vidhihooda008/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0075-sort-colors](https://github.com/vidhihooda008/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/vidhihooda008/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/vidhihooda008/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/vidhihooda008/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/vidhihooda008/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/vidhihooda008/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/vidhihooda008/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/vidhihooda008/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/vidhihooda008/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/vidhihooda008/LeetCode/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
