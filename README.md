@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhihooda008/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vidhihooda008/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vidhihooda008/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0202-happy-number](https://github.com/vidhihooda008/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/vidhihooda008/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vidhihooda008/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/vidhihooda008/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/vidhihooda008/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0202-happy-number](https://github.com/vidhihooda008/LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vidhihooda008/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/vidhihooda008/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/vidhihooda008/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0202-happy-number](https://github.com/vidhihooda008/LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
