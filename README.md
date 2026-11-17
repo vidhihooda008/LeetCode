@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/vidhihooda008/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/vidhihooda008/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0202-happy-number](https://github.com/vidhihooda008/LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
