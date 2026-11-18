@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/vidhihooda008/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/vidhihooda008/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/vidhihooda008/LeetCode/tree/main/0136-single-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vidhihooda008/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/vidhihooda008/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/vidhihooda008/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0202-happy-number](https://github.com/vidhihooda008/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vidhihooda008/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
